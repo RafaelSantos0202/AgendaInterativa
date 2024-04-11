@@ -56,4 +56,4 @@ O projeto será desenvolvido seguindo a metodologia ágil SCRUM. O SCRUM foi esc
 
 ## Conclusão:
 
-O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente a qualidade de vida das pessoas, oferecendo uma solução simples e eficaz para o gerenciamento de medicamentos. Com uma abordagem ágil de desenvolvimento e um foco claro nas necessidades dos usuários, esperamos criar um produto que atenda às expectativas e gere um impacto positivo na comunidade idosa.
+O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente a qualidade de vida das pessoas, oferecendo uma solução simples e eficaz para o gerenciamento de medicamentos. Com uma abordagem ágil de desenvolvimento e um foco claro nas necessidades dos usuários, esperamos criar um produto que atenda às expectativas e gere um impacto positivo na comunidade.
