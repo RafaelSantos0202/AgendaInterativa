@@ -61,9 +61,11 @@ O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente 
 
 ## Diagrama de Caso de Uso
 
- ![tt](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/d54be465-bd05-430f-9533-0e23a54ee056)
+![Caso_de_Uso](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/08c35701-df84-4d73-b8c6-0ae9625bd394)
+
 
 
 ## Diagrama de Sequencia
 
- ![321791035-0b61a362-0240-4b68-962a-0c1f01303842](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/08c697d8-b969-4fd6-8755-8fd57f4b86d8)
+![WhatsApp Image 2024-04-10 at 20 12 40](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/0b61a362-0240-4b68-962a-0c1f01303842)
+
