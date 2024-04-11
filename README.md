@@ -65,7 +65,10 @@ O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente 
 
 
 
-## Diagrama de Sequencia
+## Diagramas de Sequencia
 
-![WhatsApp Image 2024-04-10 at 20 12 40](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/0b61a362-0240-4b68-962a-0c1f01303842)
+![d2](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/f49767ed-3ee2-407a-845b-57876ec0b114)
+![d3](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/276ecbf9-b08e-41a0-a4b4-3f77a7fd17c4)
+![d1](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/1b19360a-d06a-4685-935b-7a030aba62ca)
+
 
