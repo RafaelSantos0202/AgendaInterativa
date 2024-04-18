@@ -72,3 +72,9 @@ O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente 
 ![d1](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/1b19360a-d06a-4685-935b-7a030aba62ca)
 
 
+
+## Diagrama de Classe
+
+![classe](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/f76db54f-20ca-420f-b9d6-8d5feed7a7ac)
+
+
