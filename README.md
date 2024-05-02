@@ -7,7 +7,7 @@
 - Guilherme Cezar Goes- 4933250278
 - Diogo Enrico de Camargo Walter -33640009
 - Luis Fernando – 35474921
-
+- Kaic Soares Andre - 35542527
 
 ## Introdução:
 
