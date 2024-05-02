@@ -63,11 +63,22 @@ O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente 
 
 ## Diagrama de Caso de Uso
 
+1.Cadastrar Medicamento: Permite aos usuários inserirem informações sobre os medicamentos no sistema.
+
+2.Gerenciar Horários: Os usuários podem configurar os horários para a administração dos medicamentos.
+
+3.Receber Notificações: Envio de notificações para lembrar os usuários de tomar seus medicamentos.
+
+4.Visualizar Informações do Medicamento: Permite aos usuários acessarem detalhes sobre os medicamentos cadastrados.
+
 ![Caso_de_Uso](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/08c35701-df84-4d73-b8c6-0ae9625bd394)
 
 
 
 ## Diagramas de Sequencia
+
+O Diagrama de Sequência ilustra as interações entre os objetos do sistema em uma determinada funcionalidade. Aqui está um exemplo para o caso de uso "Cadastrar Medicamento"
+
 
 ![d2](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/f49767ed-3ee2-407a-845b-57876ec0b114)
 ![d3](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/276ecbf9-b08e-41a0-a4b4-3f77a7fd17c4)
@@ -76,16 +87,22 @@ O aplicativo "Agenda Interativa" tem o potencial de melhorar significativamente 
 
 ## Diagrama de Estado
 
+Um diagrama de Estado é uma representação visual que descreve o comportamento de um objeto ou sistema ao longo do tempo em resposta a eventos externos. Ele descreve os diferentes estados que um objeto pode assumir e as transições entre esses estados, bem como as ações realizadas em cada transição.
+  
+![2baa5874-9bdf-4056-94ac-99ba238c1575](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/6c20084f-3185-4116-97ad-4cec3d85d1dd)
 
 
 ## Diagrama de Classe
+
+Um diagrama de classes ajuda a entender a estrutura do sistema, comunica o design entre equipes de desenvolvimento, serve como base para implementação
 
 ![diagrama de classe 2](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/de02e04d-c984-42a5-b69f-acf8f40058a4)
 
 
 
-
 ## Diagrama de Interação entre Classes
+
+Um diagrama de interação entre classes mostra visualmente como os objetos em um sistema interagem ao longo do tempo para realizar uma operação específica. Ele ajuda a entender o comportamento dinâmico do sistema, identificar responsabilidades dos objetos, facilitar a comunicação entre equipes e melhorar o design do sistema.
 
 ![image](https://github.com/RafaelSantos0202/AgendaInterativa/assets/166449823/973d1890-d729-483f-a00f-cfef5f5718ed)
 
